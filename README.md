@@ -1,1 +1,1 @@
-# Assignment-Code
+This project is a Python web scraper using Selenium to extract product details from Amazon's Best Sellers section. It automates login with user credentials, handles CAPTCHA and 2FA, and scrapes up to 1500 top-selling products from 10 specified categories, focusing on discounts over 50%. Key details collected include product name, price, discount, ratings, seller info, description, and images, which are saved in JSON or CSV format. The scraper incorporates robust error handling and adheres to Amazon's terms of service.
